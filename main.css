@@ -1,0 +1,52 @@
+.brand-bold {
+    color: blue;
+    font-weight: bold;
+}
+
+.brand-normal {
+    color: blue;
+    font-weight: normal;
+}
+
+
+#signin {
+    color: gray;
+    text-decoration: none;
+}
+
+.col-lg-6 > h7 {
+    color: gray;
+    font-size: 15px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.title {
+    border-top: 2px solid gray; 
+    padding-top: 10px; 
+    margin-top: 20px;
+    margin-bottom: 50px; 
+}
+
+.card-body {
+    text-align: center; 
+}
+
+.paragraph {
+    margin-bottom: 50px;
+}
+
+.paragraph2 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.chat-button {
+    background-color: white;
+}
+
+.footer {
+    margin-top: 80px;
+}
