@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border border-box;
+}
+
+.row{
+background: whitesmoke; 
+}
+
+.login img{
+    background-color: blue;
+    
+}
+
+.login h3{
+    color: black;
+    padding-top: 10%;
+    font-size: 3rem;
+}
+.login h1{
+    color: black;
+}
+
+.login h2{
+    color: black;
+}
+
+.inp{
+    height: 45px;
+    width: 42%;
+    border-radius: 1em;
+    outline: none;
+}
+
+.but1{
+    color:white;
+    background-color: blue;
+    height: 30px;
+    width: 22%;
+    border-radius:15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+
+
+}
+.but1:hover{
+    color: white;
+    background-color: black;
+}
+
+.fa-facebook{
+    font-size: 2rem;
+    color: blue;
+    padding-right: 10%;
+}
+.fa-twitter{
+    font-size: 2rem;
+    color: dodgerblue;
+    padding-right: 10%;
+}
+
+.fa-google{
+    font-size: 2rem;
+    color: red;
+    padding-right: 10%;
+}
+
+.fa-linkedin-in{
+    font-size: 2rem;
+color: white;
+background-color: blue;
+}
