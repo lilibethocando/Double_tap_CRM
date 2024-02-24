@@ -14,7 +14,7 @@
     text-decoration: none;
 }
 
-.col-lg-6 > h6 {
+.col-lg-6 > h7 {
     color: gray;
     font-size: 15px;
 }
@@ -28,10 +28,6 @@
     padding-top: 10px; 
     margin-top: 20px;
     margin-bottom: 50px; 
-}
-
-.card-body {
-    text-align: center; 
 }
 
 .paragraph {
