@@ -1,0 +1,116 @@
+*{
+    padding: 5px;
+    margin: 0;
+    box-sizing: border border-box;
+}
+
+.row{
+background: white; 
+}
+
+.login img{
+    padding-left: 20%;
+
+}
+
+.login h3{
+    color: black;
+    padding-top: 10%;
+    font-size: 3rem;
+}
+.login h1{
+    color: white;
+    width: 100;
+    font-size: large;
+    padding-right: 15%;
+    padding-left: 10%;
+}
+
+.login h2{
+    color: white;
+    width: 100;
+    font-size: large;
+    
+}
+
+.inp{
+    height: 45px;
+    width: 44%;
+    border-radius: 2em;
+    outline: none;
+}
+
+.but1{
+    color:white;
+    background-color: blue;
+    height: 30px;
+    width: 21%;
+    border-radius:15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+
+
+}
+.but1:hover{
+    color: white;
+    background-color: black;
+}
+.but2{
+    color:white;
+    background-color: blue;
+    height: 30px;
+    width:32%;
+    border-radius: 25px;
+    border-color: white;
+    outline-color: white;
+    cursor: pointer;
+}
+.but2:hover{
+    color: white;
+    background-color: black;
+}
+
+.fa-facebook{
+    font-size: 2rem;
+    color: blue;
+    padding-right: 10%;
+}
+.fa-facebook:hover{
+    cursor: pointer;
+}
+.fa-twitter:hover{
+    cursor: pointer;
+}
+.fa-google:hover{
+    cursor: pointer;
+}
+.fa-linkedin-in:hover{
+    cursor: pointer;
+}
+.fa-twitter{
+    font-size: 2rem;
+    color: dodgerblue;
+    padding-right: 10%;
+}
+
+.fa-google{
+    font-size: 2rem;
+    color: red;
+    padding-right: 10%;
+}
+
+.fa-linkedin-in{
+    font-size: 2rem;
+color: white;
+background-color: blue;
+}
+.col-5 {
+    background-color: blue;
+}
+.form-row{
+    width: 115%;
+}
+.p{
+    padding-left: 75%;
+}
