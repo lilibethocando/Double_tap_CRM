@@ -1,0 +1,23 @@
+@media (max-width: 467px) {
+    body {
+        background-image: linear-gradient(to top, #0d6efd, #0d6efd 8.5%, transparent 8.5%, transparent 0%);
+    }
+}
+
+@media (min-width: 467px) and (max-width: 991px) {
+    body {
+        background-image: linear-gradient(to top, #0d6efd, #0d6efd 7.5%, transparent 7.5%, transparent 0%);
+    }
+}
+
+@media (min-width: 991px) and (max-width: 1225px) {
+    body {
+        background-image: linear-gradient(to top, #0d6efd, #0d6efd 11.5%, transparent 11.5%, transparent 0%);
+    }
+}
+
+@media (min-width: 1225px) {
+    body {
+        background-image: linear-gradient(to top, #0d6efd, #0d6efd 11.5%, transparent 11.5%, transparent 0%);
+    }
+}
