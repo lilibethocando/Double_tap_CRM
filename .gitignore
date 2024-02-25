@@ -1,2 +1,6 @@
 .DS_Store
 .vscode
+bootstrap
+custom.scss
+custom.css.map
+scripts
