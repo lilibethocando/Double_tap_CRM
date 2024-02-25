@@ -76,6 +76,18 @@ background: white;
     color: blue;
     padding-right: 10%;
 }
+.fa-facebook:hover{
+    cursor: pointer;
+}
+.fa-twitter:hover{
+    cursor: pointer;
+}
+.fa-google:hover{
+    cursor: pointer;
+}
+.fa-linkedin-in:hover{
+    cursor: pointer;
+}
 .fa-twitter{
     font-size: 2rem;
     color: dodgerblue;
