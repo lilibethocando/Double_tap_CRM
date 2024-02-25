@@ -1,15 +1,3 @@
-@media (max-width: 992px) {
-    body {
-        background-image: linear-gradient(to top, #0d6efd, #0d6efd 8%, transparent 8%, transparent 0%);
-    }
-}
-
-@media (min-width: 992px) {
-    body {
-        background-image: linear-gradient(to top, #0d6efd, #0d6efd 11%, transparent 11%, transparent 0%);
-    }
-}
-
 .brand-bold {
     color: blue;
     font-weight: bold;
